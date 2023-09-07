@@ -34,8 +34,8 @@ export default function Home(){
         <>
 
 <div className="bg_img">
-    <div className="container">
 <NavBar/>
+    <div className="container">
 <div className="row h-100 d-flex  justify-content-start align-items-center ">
     <div className="col-8 py-5 mt-4">
         <h2 className="text-danger">----- With Patrick Potter</h2>
